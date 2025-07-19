@@ -1,4 +1,4 @@
-an Mechatronics Engineer Student in Mexico
+Mechatronics Engineer Student in Mexico
 C, Embedded Software, HDL
 
 <!---
